@@ -1,0 +1,2 @@
+# deadline-planner
+This project contains app to planning daily tasks and deadlines
